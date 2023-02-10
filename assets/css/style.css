@@ -52,3 +52,29 @@ h1, h2 {
 .active {
     border-bottom: 1px solid #6CACAD;
 }
+
+#dog-outer{
+    height: 600px;
+    width: 100%;
+    overflow: hidden
+}
+
+/*image not loading*/
+
+#antisocial-dog {
+    height: 600px;
+    width: 100%;
+    background-image: url(../images/antisocial-dog.jpg) no-repeat center center;
+    animation-name: dog-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+@key-frames dog-zoom {
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.1);
+    }
+}
