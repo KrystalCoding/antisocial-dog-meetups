@@ -9,17 +9,46 @@
 body {
     font-family: Lato, sans-serif;
     font-weight: 300;
-    color: #B5FAD6;
+    color: #6CACAD;
 }
 
 h1, h2 {
     font-family: Oswald, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: #6CAD8B;
+    color: #C87A5A;
 }
 
 #logo {
     float: left;
     size: 280%;
+}
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+}
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right:  30px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #6CACAD;
+}
+
+.active {
+    border-bottom: 1px solid #6CACAD;
 }
