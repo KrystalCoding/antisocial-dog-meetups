@@ -67,8 +67,6 @@ h1, h2 {
     text-align: center;
 }
 
-/*resize image*/
-
 #antisocial-dog {
     height: 600px;
     width: 100%;
@@ -133,8 +131,6 @@ hr{
     width: 100%;
     margin: 5px 0;
 }
-
-/* Something is wrong with the layout here! */
 
 .left-about-heading {
     width: 60%;
@@ -205,7 +201,7 @@ hr{
 }
 
 #times h2 {
-    color: ;
+    color: #6CACAD;
 }
 
 footer {
@@ -225,4 +221,98 @@ footer {
     margin: 1%;
     padding: 5%;
     color: #C87A5A;
+}
+
+#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0;
+}
+
+#photos>img {
+    width: 100%;
+}
+
+@media screen and (max-width: 1200px) {
+    #club-ethos {
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    #welcome {
+        padding: 30px 0;
+        margin: 0;
+    }
+
+    #left-about,
+    #right-about {
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+
+    #center-about {
+        clear: both;
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+
+    #times > div {
+        width: 100%;
+        clear: both;
+        height: 150px;
+        padding: 0;
+    }
+
+    hr {
+        display: none;
+    }
+}
+
+@media screen and (max-width:950px) {
+
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+
+    #cover-text {
+        left: 0;
+    }
+
+    #club-ethos {
+        width: 90%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    .left-about-heading, .right-about-heading {
+        width: inherit;
+    }
+
+    .left-about-heading h2, .right-about-heading h2 {
+        width: 100%;
+        text-align: center;
+    }
+
+    .left-about-heading p, .right-about-heading p {
+        text-align: center;
+        padding: 0 20px;
+    }
+
+    #photos {
+        column-count: 3;
+    }
+}
+
+@media screen and (max-width: 800px){
+    #photos {
+        column-count: 2;
+    }
 }
