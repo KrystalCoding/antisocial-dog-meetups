@@ -15,7 +15,8 @@
 <body>
     <header>
         <a href="index.html">
-           <h2 id="logo">Sign up for Meetups</h2>
+            <h2 id="logo">Sign Up For Meetups <i class="fa-solid fa-dog"></i>
+    </h2>
         </a>
         <nav>
             <ul id="menu">
@@ -33,23 +34,25 @@
         </nav>
     </header>
     <section class="form-section">
-        <form action="https://formdump.codeinstitute.net/" method="POST">
-
+        <form class="signup-form" method="POST" action="https://formdump.codeinstitute.net/" class="signup-form">
+            <h2>Let's get you signed up!</h2>
             <label for="fname">First Name</label>
-            <input id="fname" type="text" name="first_name" required>
+            <input class="text-input" id="fname" name="first_name" type="text" required>
+            
             <label for="lname">Last Name</label>
-            <input id="lname" type="text" name="last_name" required>
+            <input class="text-input" id="lname" name="last_name" type="text" required>
+            
             <label for="email">Email Address</label>
-            <input id="email" type="email" name="email_address" required>
+            <input class="text-input" type="email" id="email" name="email_address" required>
             
-            <label for="road">Road</label>
-            <input id="road" type="radio" name="running_preference" value="road" required>
-            <label for="trail">Trail</label>
-            <input id="trail" type="radio" name="running_preference" value="trail">
-            <label for="both">Both</label>
-            <input id="both" type="radio" name="running_preference" value="both">
+            <label for="gränby">Gränby</label>
+            <input type="radio" id="road" name="meeting_preference" value="gränby" required>
+            <label for="stabby">Stabby</label>
+            <input type="radio" id="stabby" name="meeting_preference" value="stabby" required>
+            <label for="pub">Pub</label>
+            <input type="radio" id="pub" name="meeting_preference" value="pub" required>
             
-            <input type="submit" value="Let's Run!">
+            <input class="join-button" type="submit" value="Get Social!">
         </form>
     </section>
     <footer>
