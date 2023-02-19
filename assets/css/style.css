@@ -68,7 +68,7 @@ h1, h2 {
 }
 
 #shy-dog {
-    height: 300px;
+    height: 400px;
     width: 100%;
     background: url('../images/needy-dog.jpeg') no-repeat center center;
     animation-name: dog-zoom;
