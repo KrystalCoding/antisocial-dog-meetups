@@ -168,7 +168,7 @@ hr{
     height: 300px;
     padding: 30px;
     border-style: solid;
-    border-color: #ccc;
+    border-color: #6CACAD;
     border-width: 1px;
     border-radius: 50%;
     margin: 0 auto;
@@ -180,7 +180,7 @@ hr{
     border-radius: 50%;
 }
 
-#times {
+#logistics {
     background-image: url('../images/dog-park.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
@@ -189,7 +189,7 @@ hr{
     overflow: hidden;
 }
 
-#times div {
+#logistics div {
     color: #C87A5A;
     background-color: rgba(0, 0, 0, .6);
     width: 20%;
@@ -197,11 +197,11 @@ hr{
     float: left;
     padding: 30px 0 0 10px;
     text-align: center;
-    border: 2px solid white;
+    border: 2px solid #6CACAD;
     box-sizing: border-box;
 }
 
-#times h2 {
+#logistics h2 {
     color: #6CACAD;
 }
 
@@ -226,9 +226,9 @@ footer {
 
 #photos {
     clear: both;
-    line-height: 0;
+    line-height: 5;
     column-count: 4;
-    column-gap: 0;
+    column-gap: 1;
 }
 
 #photos>img {
@@ -324,6 +324,10 @@ footer {
 
     hr {
         display: none;
+    }
+
+    #photos {
+        column-count: 4;
     }
 }
 
