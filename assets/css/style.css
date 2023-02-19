@@ -67,7 +67,7 @@ h1, h2 {
     text-align: center;
 }
 
-#antisocial-dog {
+#shy-dog {
     height: 300px;
     width: 100%;
     background: url('../images/needy-dog.jpeg') no-repeat center center;
@@ -237,7 +237,7 @@ footer {
 
 .form-section {
     clear: left;
-    background: url("../images/dog-with-beer.jpeg");
+    background: url("../images/dog-park.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -247,7 +247,7 @@ footer {
 .signup-form {
     margin: 150px 10% 0 0;
     color: #C87A5A;
-    background-color: rgba(60, 60, 60, 0.6);
+    background-color: rgba(60, 60, 60, 0.889);
     max-width: 400px;
     position: absolute;
     left: 10%;
@@ -270,7 +270,7 @@ footer {
 }
 
 .text-input:hover {
-    border-color: #f16c6b;
+    border-color: #C87A5A;
 }
 
 .join-button {
@@ -279,14 +279,14 @@ footer {
   padding: 15px 32px;
   text-align: center;
   font-size: 100%;
-  background-color: #f16c6b;
+  background-color: #C87A5A;
   color: #fafafa;
   display: block;
 }
 
 .join-button:hover {
     background-color: #fafafa;
-    color: #f16c6b;
+    color: #C87A5A;
 }
 
 @media screen and (max-width: 1200px) {
