@@ -21,7 +21,7 @@ h1, h2 {
 
 #logo {
     float: left;
-    size: 280%;
+    font-size: 280%;
     margin-left: 30px;
 }
 
@@ -228,7 +228,6 @@ footer {
     clear: both;
     line-height: 5;
     column-count: 4;
-    column-gap: 1;
 }
 
 #photos>img {

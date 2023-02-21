@@ -63,6 +63,8 @@ Users of this web page will be able to find all the information they need about 
 ### Bugs
 
 ### Validator Testing
+- The html code was validated and cleared via [W3C HTML Validator](https://validator.w3.org/#validate_by_input).
+- The CSS code was validated and cleared via [W3C CSS Validator (Jigsaw)](https://jigsaw.w3.org/css-validator/).
 
 (INSERT SCREENSHOT OF ACCESSIBILITY SCORE)
 
