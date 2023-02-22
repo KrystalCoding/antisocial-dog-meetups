@@ -238,14 +238,14 @@ footer {
 .containter {
     clear: both;
     max-width: 1224px;
-    width: 90%;
+    width: 100%;
     margin: auto;
     padding: 40px 0;
 }
 
 .overflow {
     overflow-y: hidden
-    max-height:100vh;
+    max-height: 100vh;
 }
 
 .photo-gallery {
@@ -264,7 +264,7 @@ footer {
 .photo img {
     max-width: 100%;
     border-radius: 5px;
-    object-fit: contain;
+    object-fit: cover;
     vertical-align: middle;
 }
 
