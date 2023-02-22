@@ -243,7 +243,13 @@ footer {
     padding: 40px 0;
 }
 
+.overflow {
+    overflow-y: hidden
+    max-height:100vh;
+}
+
 .photo-gallery {
+    width: 100%;
     clear: both;
     display: flex;
     gap: 20px;
@@ -256,10 +262,10 @@ footer {
 }
 
 .photo img {
-    max-width: 300px;
-    height: 300px;
+    max-width: 100%;
     border-radius: 5px;
     object-fit: contain;
+    vertical-align: middle;
 }
 
 .form-section {
@@ -392,20 +398,31 @@ footer {
         padding: 0 20px;
     }
 
+    .d-none-3 {
+        display: none
+    } 
+
     /*#photos {
         column-count: 3;
     }*/
+}
+
+@media screen and (max-width: 800px){
+    /*#photos {
+        column-count: 2;
+    }*/
+
+    .d-none-2 {
+        display: none
+    } 
 
     .photo-gallery {
         flex-direction: column;
     }
 }
 
-/*@media screen and (max-width: 800px){
-    #photos {
-        column-count: 2;
-    }
-    .photo-gallery {
-        flex-direction: column;
-    }
-}*/
+@media screen and (max-width: 550px){
+    .d-none-1 {
+        display: none
+    } 
+}
