@@ -224,17 +224,6 @@ footer {
     color: #C87A5A;
 }
 
-/*#photos {
-    clear: both;
-    line-height: 5;
-    column-count: 4;
-}
-
-#photos img {
-    height: auto;
-    max-width: 100%;
-}*/
-
 .containter {
     clear: both;
     max-width: 1224px;
@@ -348,7 +337,7 @@ footer {
         padding: 0;
     }
 
-    #times > div {
+    #logistics > div {
         width: 100%;
         clear: both;
         height: 150px;
@@ -358,10 +347,6 @@ footer {
     hr {
         display: none;
     }
-
-    /*#photos {
-        column-count: 4;
-    }*/
 }
 
 @media screen and (max-width:950px) {
@@ -401,17 +386,9 @@ footer {
     .d-none-3 {
         display: none
     } 
-
-    /*#photos {
-        column-count: 3;
-    }*/
 }
 
 @media screen and (max-width: 800px){
-    /*#photos {
-        column-count: 2;
-    }*/
-
     .d-none-2 {
         display: none
     } 
