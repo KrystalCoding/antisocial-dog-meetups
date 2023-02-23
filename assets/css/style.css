@@ -252,20 +252,20 @@ footer {
     width: 100%;
     clear: both;
     display: flex;
-    gap: 20px;
+    flex-direction: row;
 }
 
 .column {
     display: flex;
     flex-direction: column;
-    gap: 20px;
 }
 
-.photo img {
-    max-width: 100%;
+.photo > img {
+    width: calc(100% - 20px);
     border-radius: 5px;
     object-fit: cover;
     vertical-align: middle;
+    margin: 10px;
 }
 
 .form-section {
