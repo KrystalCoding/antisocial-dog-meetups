@@ -15,7 +15,9 @@ Users of this web page will be able to find all the information they need about 
     - The navigation text are in Lato and Oswald fonts, and the color contrasts with the background.
     - The navigation displays the Club name and info about the page the user is on, and makes navigating the information intuitive.
 
-    (INSERT SCREENSHOT HERE)
+![screenshot of header on home page](assets/images/Social-Dog-Header.png)
+![screenshot of header on images page](assets/images/get-social-header.png)
+![screenshot of header on sign up page](assets/images/sign-up-header.png)
 
 - The Banner
     - The banner displays the purpose of the club, which is to meet up with other dog owners, and continues with the color scheme and fonts.
@@ -63,8 +65,16 @@ Users of this web page will be able to find all the information they need about 
 ### Bugs
 
 ### Validator Testing
-- The html code was validated and cleared via [W3C HTML Validator](https://validator.w3.org/#validate_by_input).
-- The CSS code was validated and cleared via [W3C CSS Validator (Jigsaw)](https://jigsaw.w3.org/css-validator/).
+- HTML
+    - The html code was validated and cleared via [W3C HTML Validator](https://validator.w3.org/#validate_by_input).
+![photo proof of w3 html validation](assets/images/w3validated.png)
+- CSS
+    - The CSS code was validated and cleared via [W3C CSS Validator (Jigsaw)](https://jigsaw.w3.org/css-validator/).
+![photo proof of w3 css validation](assets/images/w3CSSvalidated.png)    
+- Accessibility
+    - I confirmed that the color palette and fonts are easily accessible by using [Lighthouse](https://pagespeed.web.dev/report?url=https%3A%2F%2Fkrystalcoding.github.io%2Fantisocial-dog-meetups%2F&form_factor=desktop) in devtools.
+![photo proof of accessibility score](assets/images/Lighthouse.png)
+
 
 (INSERT SCREENSHOT OF ACCESSIBILITY SCORE)
 
