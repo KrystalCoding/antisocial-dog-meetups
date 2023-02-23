@@ -251,6 +251,7 @@ footer {
 
 .photo > img {
     width: calc(100% - 20px);
+    height: auto;
     border-radius: 5px;
     object-fit: cover;
     vertical-align: middle;

@@ -76,7 +76,7 @@ Users of this web page will be able to find all the information they need about 
     - On the left hand side, scroll down to the navigation link titled Pages.
     - From the branch source drop-down menu, select the option Master.
     - When the page was refreshed, the link for deployment was provided.
-Once again, the live link can be found here: [Shy Dog Club](https://krystalcoding.github.io/antisocial-dog-meetups/) 
+Once again, the live link can be found here: [Shy Dog Club](https://krystalcoding.github.io/antisocial-dog-meetups/).
 
 ## Credit
 
@@ -86,5 +86,5 @@ Once again, the live link can be found here: [Shy Dog Club](https://krystalcodin
 - [GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images) provided the basic writing and syntax used in this README.md file.
 
 ### Media
-- The images were all borrowed from [Pexels](https://www.pexels.com/)
-- 
+- The images were all borrowed from [Pexels](https://www.pexels.com/).
+- The icons were borrowed from [Font Awesome](https://fontawesome.com/start).
