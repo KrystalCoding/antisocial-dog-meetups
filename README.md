@@ -81,7 +81,9 @@ Once again, the live link can be found here: [Shy Dog Club](https://krystalcodin
 ## Credit
 
 ### Content
-- The code to connect the navigation links, design the logistics section, format the Sign Up section, and make social media connections was taken from the CI [Love Running](https://github.com/KrystalCoding/love-running) Project with tutorial videos by [The Code Institute](https://codeinstitute.net)
+- The code to design the logistics section, format the sign-up section, and make social media connections was taken from the CI [Love Running](https://github.com/KrystalCoding/love-running) Project with tutorial videos by [The Code Institute](https://codeinstitute.net). Assistance from tutors at the Institute was also utilized for image responsiveness.
+- Resource [W3 Schools](https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp) was used in creating a responsive image grid.
+- [GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images) provided the basic writing and syntax used in this README.md file.
 
 ### Media
 - The images were all borrowed from [Pexels](https://www.pexels.com/)
