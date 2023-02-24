@@ -8,7 +8,7 @@ The Shy Dog-Owners Club is a community site for people in Uppsala, Sweden who ow
 
 Users of this web page will be able to find all the information they need about the club ethos, meeting times and places, pictures for inspiration, and a sign up form to aid in the community organization.
 
-![Responsive web design screenshot](assets/images/responsiveness-screenshot.png)
+![Responsive web design screenshot](assets/images/responsiveness.png)
 
 ## Features
 - Navigation
