@@ -6,7 +6,9 @@ Welcome to my first project for [Code Institute](https://codeinstitute.net)!
 
 The Shy Dog-Owners Club is a community site for people in Uppsala, Sweden who own shy or socially anxious dogs. The Club offers different settings for meetups where the owners can mingle while their dogs keep comfortable distance from one another.
 
-Users of this web page will be able to find all the information they need about the club ethos, meeting times and places, pictures for inspiration, and a sign up form to aid in the community organization.![Responsive web design screenshot](assets/images/responsiveness.png)
+Users of this web page will be able to find all the information they need about the club ethos, meeting times and places, pictures for inspiration, and a sign up form to aid in the community organization.
+
+<p>![Responsive web design screenshot](assets/images/responsiveness.png)</p>
 
 ## Features
 - Navigation
