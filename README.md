@@ -23,7 +23,7 @@ Users of this web page will be able to find all the information they need about 
     - The banner displays the purpose of the club, which is to meet up with other dog owners, and continues with the color scheme and fonts.
     - The banner advertises the locations in which the meet ups are to be held.
 
-![banner on home page screenshot](assets/images/banner-screenshot.png)
+![banner on home page screenshot](assets/images/banner-remade-screenshot.png)
 
 - Club Ethos
     - The ethos section displays the purpose and aspirations of the club, answering its own question: WHY SOCIAL SETTINGS FOR ANTISOCIAL DOGS?
