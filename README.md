@@ -2,13 +2,13 @@
 
 Welcome to my first project for [Code Institute](https://codeinstitute.net)!
 
-[Click me](https://krystalcoding.github.io/antisocial-dog-meetups/) to preview my website with fully interactive design.
+[Click to view](https://krystalcoding.github.io/antisocial-dog-meetups/) my website with fully interactive design.
 
 The Shy Dog-Owners Club is a community site for people in Uppsala, Sweden who own shy or socially anxious dogs. The Club offers different settings for meetups where the owners can mingle while their dogs keep comfortable distance from one another.
 
 Users of this web page will be able to find all the information they need about the club ethos, meeting times and places, pictures for inspiration, and a sign up form to aid in the community organization.
 
-<p>![Responsive web design screenshot](assets/images/responsiveness.png)</p>
+![Responsive web design screenshot](assets/images/responsiveness-JPG.jpg)
 
 ## Features
 - Navigation
